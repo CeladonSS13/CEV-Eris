@@ -100,7 +100,8 @@
 	\tc = stop pulling
 	\tShift+e = belt-equip
 	\tShift+q = suit-storage-equip
-	\tShift+b = rest
+	\tShift+b = bag-equip
+	\tv = rest
 	\tr = throw
 	\tt = say
 	\tm = emote
