@@ -422,8 +422,11 @@ macro "default"
 		name = "SHIFT+Q"
 		command = "suit-storage-equip"
 	elem
-		name = "SHIFT+B"
+		name = "V"
 		command = "rest"
+	elem
+		name = "SHIFT+B"
+		command = "bag-equip"
 	elem
 		name = "CTRL+E"
 		command = "quick-equip"
