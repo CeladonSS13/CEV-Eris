@@ -101972,7 +101972,6 @@
 	name = "Armoury showcase"
 	},
 /obj/item/gun/projectile/automatic/lmg/tk,
-/obj/item/gun/projectile/automatic/lmg/tk,
 /turf/floor/tiled/dark/gray_platform,
 /area/eris/security/warden)
 "oEy" = (
