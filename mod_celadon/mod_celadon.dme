@@ -15,6 +15,7 @@
 // --- MOBS --- //
 
 // --- MISC --- //
+#include "disable_vagabond/_disable_vagabond.dme"
 
 
 #include "overmap_ruin_roundstartacces_fix/_overmap_ruin_roundstartacces_fix.dme"
